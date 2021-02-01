@@ -53,10 +53,10 @@ body {
   min-height: 568px;
 }
 .slide-1 {
-  background: #b4d1e0 url(img/back-img.png) no-repeat top right 20%;
+  background: #b4d1e0 url(../img/back-img.png) no-repeat top right 20%;
 }
 .slide-2 {
-  background: #68ff54 url(img/back-img.png) no-repeat top right 20%;
+  background: #68ff54 url(../img/back-img.png) no-repeat top right 20%;
 }
 .label {
   padding: 5px 12px;
@@ -108,16 +108,16 @@ body {
   padding-right: 80px;
 }
 .card-1 {
-  background: #e2e0e0 url(img/card-image-1.jpg) no-repeat top right;
+  background: #e2e0e0 url(../img/card-image-1.jpg) no-repeat top right;
   background-size: cover;
 }
 .card-2 {
-  background: #e2e0e0 url(img/card-image-2.jpg) no-repeat top right;
+  background: #e2e0e0 url(../img/card-image-2.jpg) no-repeat top right;
   background-size: cover;
 }
 .card-3 {
   padding-top: 35px;
-  background: #e2e0e0 url(img/card-image-3.png) no-repeat top right 15%;
+  background: #e2e0e0 url(../img/card-image-3.png) no-repeat top right 15%;
   background-size: contain;
   background-color: #ccd5e6;
 }
@@ -125,7 +125,7 @@ body {
 .card-4 {
   padding-top: 35px;
   padding-left: 25px;
-  background: #ff4f52 url(img/card-image-4.png) no-repeat top right;
+  background: #ff4f52 url(../img/card-image-4.png) no-repeat top right;
   background-size: contain;
 }
 .card-title {
