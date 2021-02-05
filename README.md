@@ -1,2 +1,2 @@
-# plswork
-## thi is site of my life
+# Первая (главная) страница популярного сайта Wildberries
+## Использована сетка Bottstrap grid и js модуль для создания прокрутки слайдов
